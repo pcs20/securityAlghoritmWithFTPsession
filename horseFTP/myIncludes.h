@@ -1,9 +1,5 @@
 #include <Windows.h>
 #include <process.h>
-#include <stdio.h>
 #include <string>
-#include <fstream>
+#include <wininet.h>
 #include <iostream>
-#include <string.h>
-#include <cstring>
-#include <conio.h>

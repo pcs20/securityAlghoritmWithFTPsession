@@ -1,3 +1,1 @@
-﻿  Main.cpp
-Main.obj : warning LNK4075: ignorando '/EDITANDCONTINUE' devido a especificação '/OPT:ICF'
-  horseFTP.vcxproj -> c:\Users\mallesco\source\repos\horseFTP\Debug\horseFTP.dll
+﻿  horseFTP.vcxproj -> C:\Users\mallesco\source\repos\horseFTP\Debug\horseFTP.dll
